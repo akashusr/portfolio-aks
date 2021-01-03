@@ -1,0 +1,9 @@
+{
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "[markdown]": {
+
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": true
+    }
+}
